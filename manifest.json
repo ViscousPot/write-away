@@ -1,0 +1,11 @@
+{
+	"id": "write-away",
+	"name": "WriteAway",
+	"version": "0.1.0",
+	"minAppVersion": "1.0.0",
+	"description": "Handwriting recognition for Obsidian. Write anywhere on screen.",
+	"author": "ViscousPotential",
+	"authorUrl": "https://viscouspotenti.al",
+	"fundingUrl": "https://github.com/ViscousPot/sponsors",
+	"isDesktopOnly": false
+}
